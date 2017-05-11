@@ -1,0 +1,146 @@
+/* ================================================================================
+ * Name: CSS Style V3.0 || 2017 !!!
+ * Company: Banglasoft@Corporation™ !!!
+ * Founder: Engr. Md Mahadi Hassan Herock !!!
+ * Website URL: http://www.bangla-soft.com !!!
+ * Description: Try To Do Something Better Than Other !!!
+ =============================================================================== */
+
+/* ====================== CSS Styling Start From Here ======================== */
+
+/* ========================= General CSS For All =========================== */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: url(images/background.png) repeat fixed;
+}
+
+.top-up {
+	margin-top: 50px;
+}
+
+.main {
+	margin: 0px auto;
+	width: 960px;
+}
+
+.logo img {
+	float: left;
+	height: 20%;
+	margin: 0px;
+	padding: 0px;
+	width: 20%;
+}
+
+.name h1 {
+	color: red;
+	font-family: monospace;
+	font-size: 40px;
+	margin-bottom: -45px;
+	margin-left: 310px;
+	padding: 0px;
+}
+
+.menubar {
+	background: coral;
+	border-bottom: 2px solid green;
+	border-right: 2px solid green;
+	border-top: 2px solid green;
+	float: right;
+	font-weight: bold;
+	margin-bottom: 1px;
+	margin-top: 65px;
+	width: 78%;
+}
+
+.menubar ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.menubar ul li {
+	border-left: 2px solid green;
+	float: left;
+}
+
+.menubar ul li a {
+	color: white;
+	display: block;
+	padding: 20px 35.624px;
+	text-decoration: none;
+}
+
+.menubar ul li a:hover {
+	background: green;
+	color: red;
+	font-weight: bold;
+}
+
+.slider img {
+	border: 10px solid gray;
+	width: 940px;
+}
+
+.news-section {
+	background: white;
+	border: 5px solid blue;
+}
+
+.news {
+	display: inline-block;
+	border: 2px solid gray;
+	margin-right: 2%;
+	margin-top: 20px;
+	margin: 12px;
+	width: 30%;
+}
+
+.news img {
+	border-bottom: 2px solid black;
+	width: 100%;
+}
+
+.news h1 {
+	border-bottom: 2px solid black;
+	color: blue;
+	font-size: 20px;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.news p {
+	padding: 15px;
+	text-align: justify;
+}
+
+button {
+	float: right;
+	margin: 10px 0px;
+	padding: 10px;
+}
+
+button a {
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.footer {
+	background: #2C445E;
+	color: white;
+	margin-top: 20px;
+	padding: 15px;
+	text-align: center;
+}
+
+.footer p {
+	text-align: center;
+}
+
+/* ==================== General CSS For All End Here ======================= */
+
+/* ======================= CSS Styling End From Here ========================= */
